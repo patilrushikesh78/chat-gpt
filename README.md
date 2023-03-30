@@ -6,4 +6,5 @@
 4) It will open http://localhost:3000/
 
 # Video
-https://raw.github.com/patilrushikesh78/chat-gtp/main/videos/LWR_Recording.mp4
+https://user-images.githubusercontent.com/38528058/228877371-fae3daab-2529-466c-8b3a-8c423658503e.mp4
+
