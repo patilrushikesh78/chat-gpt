@@ -6,4 +6,4 @@
 4) It will open http://localhost:3000/
 
 # Video
-![Watch The Video](https://raw.github.com/patilrushikesh78/chat-gtp/master/videos/LWR_Recording.mp4)
+![Watch The Video](https://raw.github.com/patilrushikesh78/chat-gpt/master/videos/LWR_Recording.mp4)
